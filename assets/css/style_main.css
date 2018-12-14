@@ -1,0 +1,92 @@
+nav.navbar .logo{
+	font-family: Niconne, lato, 'Montserrat', sans-serif;
+	text-transform: none;
+	font-size: 37px;
+	font-weight: 400;
+}
+.btn-design{
+	margin-top: 50px;
+}
+.triangle-up {
+    width: 0;
+    height: 0;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-top: 50px solid #73732b;
+    opacity: 0.7;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    /* margin-top: 0px; */
+}
+.diamond1 {
+    width: 0;
+    height: 0;
+    border: 25px solid transparent;
+    border-bottom-color: rosybrown;
+    position: absolute;
+    top: 53%;
+    left: 87%;
+}
+.diamond1:after {
+    content: '';
+    position: absolute;
+    left: -25px;
+    top: 25px;
+    width: 0;
+    height: 0;
+    border: 25px solid transparent;
+    border-top-color: rosybrown;
+    position: absolute;
+}
+.circle {
+    width: 40px;
+    height: 40px;
+    background: bisque;
+    border-radius: 50px;
+    position: absolute;
+    top: 59%;
+}
+.circle3 {
+    width: 25px;
+    height: 25px;
+    background: #706e6f;
+    border-radius: 50px;
+    position: absolute;
+    top: 2%;
+    right: 5%;
+}
+.circle2 {
+    width: 50px;
+    height: 50px;
+    background: #e8dfef;
+    border-radius: 50px;
+    position: absolute;
+    top: 86%;
+    left: 32%;
+}
+.design{
+	background: #1A1A1A
+}
+
+
+/* #grid {
+    position: absolute;
+    width: 100%;
+}
+.design #grid .col-xs-3 .grid-line.hey {
+    height: 657px;
+    transition: height 1.2s ease;
+}
+#grid .col-xs-3 .grid-line {
+    height: 0vh;
+    border-left: 1px solid #000;
+    border-right: 1px solid black;
+}
+.col-xs-3 {
+	width: 25%;
+	float: left;
+} */
+.coral{
+	color:coral;
+}

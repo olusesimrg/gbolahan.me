@@ -1,0 +1,179 @@
+.overlay {
+    height: 100%;
+    width: 100%;
+          background:rgba(0, 0, 0, 0.66);
+}
+nav.fixed-top .nav-item .nav-link:before {
+    background-color:#212529;
+}
+nav.fixed-top .nav-item .nav-link:after {
+    background-color:#212529
+}
+.success-stroke {
+    stroke: #212529;
+}
+.service-icon-shedow i {
+    color: #212529;
+}
+.about-text h6 {
+    color: #212529;
+}
+.main-timeline .timeline:hover .title {
+    color:#212529;
+}
+.main-timeline .date {
+    color: #212529;
+}
+.timeline-icon:after {
+    background: #212529;
+}
+.main-timeline .timeline:nth-child(2n) .timeline-icon:after {
+   background:#212529;
+}
+
+ul.list-unstyled.list-inline.post-metadata li {
+    color: #212529;
+}
+a.blog-btn {
+    background: linear-gradient(-45deg,#222 0,#343a40 40%,#343a40 100%);
+}
+a.blog-btn:hover {
+    background: #fff;
+    color:#212529;
+}
+a.page-link.active {
+    background: linear-gradient(-45deg,#222 0,#343a40 40%,#343a40 100%);
+    color: #ffffff;
+}
+.pagination-div .page-link {
+    border: 1px solid #212529;
+}
+.submit.div-btn {
+    background: linear-gradient(-45deg,#222 0,#343a40 40%,#343a40 100%);
+}
+.submit.div-btn:hover {
+    background: transparent;
+    color: #212529;
+}
+section.info.pt-50.pb-50 {
+    background: linear-gradient(-45deg,#222 0,#343a40 40%,#343a40 100%);
+}
+.contact-icon i {
+    color: #212529;
+}
+footer {
+    background: rgba(9, 24, 56, 0.8);
+    padding: 30px 0px;
+}
+.footer-social i {
+    color:#212529;
+}
+/*blog page*/
+.blog-sidebar .widget > h3:after {
+    background: linear-gradient(-45deg,#222 0,#343a40 40%,#343a40 100%);
+}
+.blog-details-post .entry-meta li i {
+color: #212529;
+}
+.blog-details-post .entry-body blockquote {
+    border-color: #212529;
+}
+.blog-details-post .comments-area .comment-author-metadata img {
+    border: 3px solid #212529;
+}
+.blog-sidebar .search-widget button:hover {
+    color: #212529;
+}
+.blog-sidebar .categories-widget ul li a:hover {
+    color: #212529;
+}
+.blog-sidebar .recent-posts-widget h4 a:hover {
+    color:  #212529;
+}
+.blog-sidebar .recent-posts-widget .date {
+    color: #212529;
+}
+.blog-sidebar .tags-widget div > a:hover {
+    background: linear-gradient(-45deg,#222 0,#343a40 40%,#343a40 100%);
+    border-color: #212529;
+}
+.slider-area .owl-dot.active {
+    background: linear-gradient(-45deg,#222 0,#343a40 40%,#343a40 100%);
+}
+.project-details-title h6 {
+    color:  #212529;
+}
+.project-features ul li i {
+    color: #212529;
+}
+.portfolio .port-filter ul li.filter-item {
+    border-bottom: 3px solid  #212529;
+}
+  .success {
+    background: linear-gradient(-45deg,#222 0,#343a40 40%,#343a40 100%);
+  }
+  a.header-btn {
+    color: #212529;
+}
+a.header-btn:hover {
+    color: #fff;
+    background: linear-gradient(-45deg,#222 0,#343a40 40%,#343a40 100%);
+}
+.service-icon-shedow i{
+    color: #fff;
+    background: linear-gradient(-45deg,#222 0,#343a40 40%,#343a40 100%);
+}
+ .service-item:hover .service-icon-shedow i{
+    color: #212529;
+    background: #fff;
+}
+.cbp-l-caption-buttonLeft, .cbp-l-caption-buttonRight {
+    font-weight: 600;
+    background: linear-gradient(-45deg,#222 0,#343a40 40%,#343a40 100%);
+}
+.cbp-nav-next, .cbp-nav-prev {
+    background: linear-gradient(-45deg,#222 0,#343a40 40%,#343a40 100%);
+}
+.title-main-page h4:before {
+    border-color: #212529;
+}
+.title-main-page p:after {
+    border-bottom: 5px solid  #212529;
+}
+.testimonials .owl-dots .owl-dot {
+    background: #fff;
+}
+.testimonials  .owl-dot.active{
+    background: linear-gradient(-45deg,#222 0,#343a40 40%,#343a40 100%);
+}
+.counter-img i {
+    background: linear-gradient(-45deg,#222 0,#343a40 40%,#343a40 100%);
+
+
+}
+.submit.div-btn:hover {
+    background: #fff;
+    color: #212529;
+}
+.about-text h6 {
+    color: #495057;
+}
+.about-contact.contact-social ul li i:hover {
+    background: linear-gradient(-45deg,#222 0,#343a40 40%,#343a40 100%);
+    color: #fff;
+}
+.skills .skill-div .skills-item .bar .fill {
+    background: linear-gradient(-45deg,#222 0,#343a40 40%,#343a40 100%);
+}
+.subscribe-form span#basic-addon2 {
+    background: #f8f9fa;
+    color: #212529;
+}
+.subscribe-form span#basic-addon2:hover {
+    background: linear-gradient(-45deg,#222 0,#343a40 40%,#343a40 100%);
+    color: #fff;
+}
+footer {
+    background: rgba(26, 27, 29, 0.8);
+    padding: 30px 0px;
+}
