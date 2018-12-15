@@ -1,6 +1,6 @@
   /************ CSS Styles ************
 
-    Template Name: Olusesimrg - My Personal Portfolio Website
+    Template Name: Olusesimrg - My Portfolio Website
     Author: Gbolahan Olusesi
     version: 1.0
     Copyright: 2018
@@ -552,7 +552,7 @@
         content: '';
         display: block;
         height: 100%;
-        background: url(http://synchrotheme.com/bjonni/assets/images/svg/wave-double.svg) bottom no-repeat;
+        background: url() bottom no-repeat;
         background-size: cover;
         position: absolute;
         bottom: -3px;
@@ -564,7 +564,7 @@
         content: '';
         display: block;
         height: 150px;
-        background: url(../images/svg/wave-light.png) bottom no-repeat;
+        background: url() bottom no-repeat;
         background-size: cover;
         position: absolute;
         bottom: -3px;
@@ -576,7 +576,7 @@
         content: '';
         display: block;
         height: 100%;
-        background: url(http://synchrotheme.com/bjonni/assets/images/svg/m-style.svg) bottom no-repeat;
+        background: url() bottom no-repeat;
         background-size: cover;
         position: absolute;
         bottom: -3px;
@@ -592,7 +592,7 @@
       left: 0;
       bottom: 0;
       z-index: 2;
-      background: url(../images/svg/wave-d.png) 100% 100% no-repeat;
+      background: url() 100% 100% no-repeat;
       background-size: contain;
 
       }
@@ -600,7 +600,7 @@
      content: '';
         display: block;
         height: 100%;
-        background: url(http://synchrotheme.com/bjonni/assets/images/svg/wave-double.svg) bottom no-repeat;
+        background: url() bottom no-repeat;
         background-size: cover;
         position: absolute;
         bottom: -3px;
@@ -613,7 +613,7 @@
         content: '';
         display: block;
         height: 100%;
-        background: url(http://synchrotheme.com/bjonni/assets/images/svg/wave-double.svg) bottom no-repeat;
+        background: url() bottom no-repeat;
         background-size: cover;
         position: absolute;
         bottom: -3px;
