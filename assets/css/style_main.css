@@ -47,14 +47,21 @@ nav.navbar .logo{
     position: absolute;
     top: 59%;
 }
+
 .circle3 {
     width: 25px;
     height: 25px;
-    background: #706e6f;
+    background-color: #706e6f;
     border-radius: 50px;
     position: absolute;
     top: 2%;
     right: 5%;
+}
+.circle3:hover{
+    background-color: #fff;
+}
+.circle2:hover{
+    background: #fff;
 }
 .circle2 {
     width: 50px;
@@ -64,6 +71,9 @@ nav.navbar .logo{
     position: absolute;
     top: 86%;
     left: 32%;
+}
+.circle:hover{
+    background: #fff;
 }
 .design{
 	background: #1A1A1A

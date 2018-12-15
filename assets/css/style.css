@@ -361,14 +361,14 @@
       right: 0;
       margin: auto;
       }
-      .title-main-page p:after {
+      .title-main-page h4:after {
       content: '';
       display: block;
-      border-bottom: 5px solid #4e54c8;
+      border-bottom: 5px solid #222;
       width: 57px;
       margin-left: auto;
       margin-right: auto;
-      padding-top: 10px;
+      padding-top: 20px;
       }
       /*============ 2. Preloader ============*/
       .preloader {
