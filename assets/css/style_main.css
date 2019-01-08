@@ -115,3 +115,11 @@ nav.navbar .logo{
 .triy{
     color: #73732b;
 }
+@media only screen and (max-width: 500px){
+    .banner-left p{
+        display: none;
+    }
+    .btn-design{
+        margin-top: 80px;
+    }
+}
